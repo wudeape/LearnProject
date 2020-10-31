@@ -1,0 +1,7 @@
+#执行的类或对象方法所在包的名字
+[com.methodtest.other]
+#需要执行的类名和方法名 一分钟执行一次
+#秒，分，时，天，月，年
+CronTaskLearn.test1 =* */1 * * *
+CronTaskLearn.test2 =* */1 * * *
+#表示com.methodtest.other.CronTaskLearn.test1

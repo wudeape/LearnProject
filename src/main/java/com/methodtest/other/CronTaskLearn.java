@@ -7,4 +7,13 @@ package com.methodtest.other;
  */
 public class CronTaskLearn {
 
+    public void test1(){
+        System.out.println("this is first test");
+    }
+
+    public void test2(){
+        System.out.println("the second test");
+    }
+
+
 }
