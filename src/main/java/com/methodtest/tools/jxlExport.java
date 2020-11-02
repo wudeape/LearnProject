@@ -7,6 +7,7 @@ import jxl.format.*;
 import jxl.format.Alignment;
 import jxl.format.Border;
 import jxl.format.BorderLineStyle;
+import jxl.format.Colour;
 import jxl.format.VerticalAlignment;
 import jxl.write.*;
 import jxl.write.biff.RowsExceededException;
